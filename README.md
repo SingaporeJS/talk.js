@@ -1,8 +1,6 @@
 # talk.js
 
-A monthly meet up for all things JavaScript, Node.js, and the modern web.
-
-Find us on [Meetup.com](https://www.meetup.com/Singapore-JS/).
+A monthly meet up for all things JavaScript, Node.js, and the modern web. Find us on [Meetup.com](https://www.meetup.com/Singapore-JS/).
 
 ## How to propose a talk
 
