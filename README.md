@@ -30,7 +30,7 @@ Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home).
 
 There are a few ways you can reach out to us if you have questions, suggestions, or feedback. The most effective way is to open an issue.
 
-- For new job opportunity you'd like to list, open an [issue](https://github.com/SingaporeJS/jobs/issues/new)
+- For new job opportunities you'd like to list, open an [issue](https://github.com/SingaporeJS/jobs/issues/new)
 - For talk.js related matters, open an [issue](https://github.com/SingaporeJS/talk.js/issues/new)
 - For other matters, open an [issue](https://github.com/SingaporeJS/organizers/issues/new)
 - Reach out to us on the organizers' channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
