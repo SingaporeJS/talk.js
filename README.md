@@ -1,6 +1,6 @@
 # talk.js
 
-A monthly meet up for all things JavaScript, Node.js, and the modern web in Singapore.
+> _A monthly meet up for all things JavaScript, Node.js, and the modern web._
 
 ## 📅 Schedule
 
@@ -18,9 +18,9 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 ## 📝 Notes to speakers
 
-- **Be punctual for the event** - _your talk may be rescheduled if you are late_
-- **Bring your own equipment** - _laptops, video adapters, power adapters, presenter clickers, etc._
-- **RSVP on Meetup.com for the event** - _this is for building security clearance_
+- Be punctual for the event - _your talk may be rescheduled if you are late_
+- Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
+- RSVP on Meetup.com for the event - _this is for building security clearance_
 
 ## 👋 Chat with our community
 
@@ -28,8 +28,8 @@ Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home).
 
 ## 💬 Reach out to the organizers
 
-There are two ways you can reach out to us if you have questions, suggestions, or feedback:
+There are a few ways you can reach out to us if you have questions, suggestions, or feedback. The most effective way is to open an issue.
 
-- Raise an [issue](https://github.com/SingaporeJS/talk.js/issues) (for talk.js related matters)
-- Raise an [issue](https://github.com/SingaporeJS/organizers/issues) (for other matters)
-- Reach out to us on the organizers channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
+- For talk.js related matters, open an issue [here](https://github.com/SingaporeJS/talk.js/issues) 
+- For other matters, open an issue [here](https://github.com/SingaporeJS/organizers/issues)
+- Reach out to us on the organizers' channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
