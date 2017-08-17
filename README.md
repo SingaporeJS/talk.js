@@ -12,6 +12,22 @@ Time   | Agenda
 8.40pm | Open mic announcements - _open segment for anyone to make announcements_
 9.00pm | End of event
 
+## 📹 Recorded past events
+
+Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch recordings from our past [events](https://engineers.sg/organization/singaporejs).
+
+## 👓 Topics
+
+Here's a non-exhaustive list of suggested topics to speakers
+
+- Web APIs: `WebAssembly` `WebCrypto` `WebSockets` `WebVR`
+
+- Frameworks: `ReactJS` `VueJS` `AngularJS` `EmberJS`
+
+- JavaScript: `Promises` `async/await` `closures` `generators` `SharedArrayBuffer` `Atomics`
+
+- Others: `Protocol Buffers` `HTTP 2.0`
+
 ## 🎙 How to propose a talk
 
 There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/issues) for each talk.js for the month (raise an issue if one has not been created yet). To propose a talk simply leave a comment in an issue for that month.
