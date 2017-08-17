@@ -20,6 +20,7 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 - Be punctual for the event - _your talk may be rescheduled if you are late_
 - Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
+- Request for WiFi access - _SSID: PayPalGuest Password: SafePayments_
 - RSVP on Meetup.com for the event - _this is for building security clearance_
 
 ## 👋 Chat with our community
