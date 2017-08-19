@@ -19,7 +19,7 @@ January   | 24th (Wednesday) | talk.js - Special Edition | 🚀
 
 Time   | Agenda
 ------ | :-----
-7.00pm | Doors open - _mingle with guests and speakers over pizza and drinks_
+7.00pm | Doors open - _mingle with guests and speakers over 🍕_
 7.30pm | Start of event - _opening segment by the host_
 7.40pm | Start of scheduled talks
 8.40pm | Open mic announcements - _open segment for anyone to make announcements_
