@@ -10,7 +10,7 @@ September | 20th (Wednesday) | talk.js | 🚀
 October   | 25th (Wednesday) | talk.js | 🚀
 November  | TBD | talk.js |
 December  | TBD | talk.js |
-January   | 24th (Wednesday) | talk.js - Special Edition | 🚀
+January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
 
 
 🚀 denotes confirmed dates
