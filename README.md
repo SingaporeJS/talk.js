@@ -20,9 +20,9 @@ January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
 Time   | Agenda
 ------ | :-----
 7.00pm | Doors open - _mingle with guests and speakers over 🍕_
-7.30pm | Start of event - _opening segment by the host_
+7.30pm | Start of event - _opening segment by host_
 7.40pm | Start of scheduled talks
-8.40pm | Open mic announcements - _open segment for anyone to make announcements_
+8.40pm | Open announcements - _open segment for anyone to make announcements_
 9.00pm | End of event
 
 ## 📹 Recorded past events
@@ -49,7 +49,7 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 - Be punctual for the event - _your talk may be rescheduled if you are late_
 - Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
-- Request for WiFi access - _SSID: PayPalGuest Password: SafePayments_
+- Request for WiFi access from the host
 - RSVP on Meetup.com for the event - _this is for building security clearance_
 
 ## 👋 Chat with our community
