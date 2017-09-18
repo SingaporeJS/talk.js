@@ -107,10 +107,10 @@ body {
   list-style-type: decimal; }
 
 .reveal ul {
-  list-style-type: disc; }
+  list-style-type: square; }
 
 .reveal ul ul {
-  list-style-type: square; }
+  list-style-type: disc; }
 
 .reveal ul ul ul {
   list-style-type: circle; }
@@ -237,7 +237,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #eee;
+  border: none;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
