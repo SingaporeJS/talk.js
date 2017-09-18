@@ -10,6 +10,6 @@ Attendees violating these rules may be asked to leave the meetup and refused ent
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-## credit
+## Credit
 
-This code of conduct is largely based on PyCon's [Code of Conduct](https://us.pycon.org/2012/codeofconduct/)
+This Code of Conduct is largely based on PyCon's [Code of Conduct](https://us.pycon.org/2012/codeofconduct/)
