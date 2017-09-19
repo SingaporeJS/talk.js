@@ -36,6 +36,9 @@ $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: #FF5E99;
 $selectionColor: #fff;
 
+// Code background color
+$codeBackgroundColor: #ddd;
+
 // Generates the presentation background, can be overridden
 // to return a background image or gradient
 @mixin bodyBackground() {
