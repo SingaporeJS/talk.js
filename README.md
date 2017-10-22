@@ -8,7 +8,7 @@ Month     | Date (Day)       | Event   | 🚀
 :---------|:-----------------|:--------|----
 September | 20th (Wednesday) | talk.js | 🚀
 October   | 25th (Wednesday) | talk.js | 🚀
-November  | TBD | talk.js |
+November  | 29th (Wednesday) | talk.js |
 December  | TBD | talk.js |
 January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
 
@@ -48,10 +48,10 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 ## 📝 Notes to speakers
 
-- Be punctual for the event - _your talk may be rescheduled if you are late_
+- Be punctual for the event; talks start at 7.30pm - _your talk may be rescheduled if you are late_
 - Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
-- Request for WiFi access from the host
-- RSVP on Meetup.com for the event - _this is for building security clearance_
+- Request for wifi access from the host
+- RSVP on [Meetup.com](https://www.meetup.com/Singapore-JS) for the event - _this is for building security clearance_
 
 ## 👋 Chat with our community
 
@@ -59,7 +59,7 @@ Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home).
 
 ## 💬 Reach out to the organizers
 
-There are a few ways you can reach out to us if you have questions, suggestions, or feedback. The most effective way is to open an issue.
+The most effective way is to open an issue if you have questions, suggestions, or feedback.
 
 - For new job opportunities you'd like to list, open an [issue](https://github.com/SingaporeJS/jobs/issues/new)
 - For talk.js related matters, open an [issue](https://github.com/SingaporeJS/talk.js/issues/new)
