@@ -12,6 +12,7 @@ November  | TBD | talk.js |
 December  | TBD | talk.js |
 January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
 
+Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
 🚀 denotes confirmed dates
 
@@ -20,8 +21,8 @@ January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
 Time   | Agenda
 ------ | :-----
 7.00pm | Doors open - _mingle with guests and speakers over 🍕_
-7.30pm | Start of event - _opening segment by host_
-7.40pm | Start of scheduled talks
+7.20pm | Start of event - _opening segment by host_
+7.30pm | Start of scheduled talks
 8.40pm | Open announcements - _open segment for anyone to make announcements_
 9.00pm | End of event
 
