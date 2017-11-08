@@ -4,13 +4,13 @@
 
 ## 🗓 Schedule
 
-Month     | Date (Day)       | Event   | 🚀
-:---------|:-----------------|:--------|----
-September | 20th (Wednesday) | talk.js | 🚀
-October   | 25th (Wednesday) | talk.js | 🚀
-November  | 29th (Wednesday) | talk.js |
-December  | TBD | talk.js |
-January   | 24th (Wednesday) | talk.js - JSConf.Asia | 🚀
+YYYY-MM-DD | Day       | Event   | Venue  | Planning | 🚀
+:----------|:----------|:--------|:-------|:---------|----
+2017-09-20 | Wednesday | talk.js | PayPal | [#2](https://github.com/SingaporeJS/talk.js/issues/2) | 🚀
+2017-10-25 | Wednesday | talk.js | PayPal | [#3](https://github.com/SingaporeJS/talk.js/issues/3) | 🚀
+2017-11-29 | Wednesday | talk.js | PayPal | [#4](https://github.com/SingaporeJS/talk.js/issues/4) |
+2017-12    | TBD       | talk.js | PayPal | [#5](https://github.com/SingaporeJS/talk.js/issues/5) |
+2018-01-24 | Wednesday | talk.js - JSConf.Asia | PayPal | [#6](https://github.com/SingaporeJS/talk.js/issues/6) | 🚀
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
