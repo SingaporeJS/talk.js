@@ -1,16 +1,22 @@
 # talk.js
 
-> _A monthly meet up for all things JavaScript, Node.js, and the modern web._
+> _A monthly meet up for all things JavaScript, Node.js, and the modern web_
 
 ## 🗓 Schedule
 
-YYYY-MM-DD | Day       | Event   | Venue  | Planning | 🚀
-:----------|:----------|:--------|:-------|:---------|----
-2017-09-20 | Wednesday | talk.js | PayPal | [#2](https://github.com/SingaporeJS/talk.js/issues/2) | 🚀
-2017-10-25 | Wednesday | talk.js | PayPal | [#3](https://github.com/SingaporeJS/talk.js/issues/3) | 🚀
-2017-11-29 | Wednesday | talk.js | PayPal | [#4](https://github.com/SingaporeJS/talk.js/issues/4) |
-2017-12    | TBD       | talk.js | PayPal | [#5](https://github.com/SingaporeJS/talk.js/issues/5) |
-2018-01-24 | Wednesday | talk.js - JSConf.Asia | PayPal | [#6](https://github.com/SingaporeJS/talk.js/issues/6) | 🚀
+Details  | YYYY-MM-DD | Day       | Venue  | Remarks |
+:-------:|:-----------|:----------|:-------|:--------|
+ [#2][2] | 2017-09-20 | Wednesday | PayPal |
+ [#3][3] | 2017-10-25 | Wednesday | PayPal |
+ [#4][4] | 2017-11-29 | Wednesday | PayPal |
+ [#5][5] | 2017-12    | TBD       | PayPal |
+ [#6][6] | 2018-01-24 | Wednesday | PayPal | JSConf.Asia edition
+
+[2]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - September 2017"
+[3]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - October 2017"
+[4]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - November 2017"
+[5]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - December 2017"
+[6]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - January 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
