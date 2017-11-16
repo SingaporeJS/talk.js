@@ -4,17 +4,15 @@
 
 ## 🗓 Schedule
 
-Details  | YYYY-MM-DD | Day       | Venue  | Remarks |
-:-------:|:-----------|:----------|:-------|:--------|
- [#4][4] | 2017-11-29 | Wednesday | PayPal |
- [#6][6] | 2018-01-24 | Wednesday | PayPal | JSConf.Asia edition
+Details  | Date                         | Venue  | Remarks |
+:-------:|:-----------------------------|:-------|:--------|
+ [#4][4] | 29 November 2017 (Wednesday) | PayPal |
+ [#6][6] | 24 January 2018 (Wednesday)  | PayPal | JSConf.Asia edition
 
 [4]: https://github.com/SingaporeJS/talk.js/issues/4 "talk.js - November 2017"
 [6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
-
-🚀 denotes confirmed dates
 
 ## 📅 Agenda
 
@@ -26,7 +24,7 @@ Time   | Agenda
 8.40pm | Open announcements - _open segment for anyone to make announcements_
 9.00pm | End of event
 
-## 📹 Recorded past events
+## 📹 Recorded talks
 
 Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch recordings from our past [events](https://engineers.sg/organization/singaporejs).
 
