@@ -7,12 +7,10 @@
 Details  | YYYY-MM-DD | Day       | Venue  | Remarks |
 :-------:|:-----------|:----------|:-------|:--------|
  [#4][4] | 2017-11-29 | Wednesday | PayPal |
- [#5][5] | 2017-12    | TBD       | PayPal |
  [#6][6] | 2018-01-24 | Wednesday | PayPal | JSConf.Asia edition
 
-[4]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - November 2017"
-[5]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - December 2017"
-[6]: https://github.com/SingaporeJS/talk.js/issues/2 "talk.js - January 2018"
+[4]: https://github.com/SingaporeJS/talk.js/issues/4 "talk.js - November 2017"
+[6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
