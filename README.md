@@ -7,21 +7,22 @@
  Status | Event  | Date                         | Venue  | Remarks |
 :------:|:--------:|:-----------------------------|:-------|:--------|
  🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | PayPal | JSConf.Asia edition
- 🤷‍♀️ | [talk.js - Feb][] | 21 Feb 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Mar][] | 21 Mar 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Apr][] | 18 Apr 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - May][] | 16 May 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Jun][] | 20 Jun 2018 (Wed)  | PayPal | Not confirmed
+ 🤷‍♀️ | [talk.js - Feb][#] | 21 Feb 2018 (Wed)  | PayPal | Not confirmed
+ 🤷‍♀️ | [talk.js - Mar][#] | 21 Mar 2018 (Wed)  | PayPal | Not confirmed
+ 🤷‍♀️ | [talk.js - Apr][#] | 18 Apr 2018 (Wed)  | PayPal | Not confirmed
+ 🤷‍♀️ | [talk.js - May][#] | 16 May 2018 (Wed)  | PayPal | Not confirmed
+ 🤷‍♀️ | [talk.js - Jun][#] | 20 Jun 2018 (Wed)  | PayPal | Not confirmed
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
 
+[#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
 [6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
 _Note to organizers:_
 - Check [public holidays](http://www.mom.gov.sg/employment-practices/public-holidays) before planning events
-- Check conflicting events in 
+- Check [WeBuildSG](https://webuild.sg) for event clashes
 
 ## 📅 Agenda
 
