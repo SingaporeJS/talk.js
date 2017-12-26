@@ -4,15 +4,22 @@
 
 ## 🗓 Schedule
 
-Details  | Date                         | Venue  | Remarks |
-:-------:|:-----------------------------|:-------|:--------|
- [#4][4] | 29 November 2017 (Wednesday) | PayPal |
- [#6][6] | 24 January 2018 (Wednesday)  | PayPal | JSConf.Asia edition
+ Status | Details  | Date                         | Venue  | Remarks |
+:------:|:--------:|:-----------------------------|:-------|:--------|
+ 🤘 | [#6][6] | 24 Jan 2018 (Wednesday)  | PayPal | JSConf.Asia edition
+ 🤷‍♀️ |      | 21 Feb 2018 (Wednesday)  | PayPal | Not confirmed
+ 🤷‍♀️ |      | 21 Mar 2018 (Wednesday)  | PayPal | Not confirmed
+
+🤘 - confirmed; 🤷‍♀️- not confirmed
 
 [4]: https://github.com/SingaporeJS/talk.js/issues/4 "talk.js - November 2017"
 [6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
+
+_Note to organizers:_
+- Check [public holidays](http://www.mom.gov.sg/employment-practices/public-holidays) before planning events
+- Check conflicting events in 
 
 ## 📅 Agenda
 
