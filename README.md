@@ -4,8 +4,8 @@
 
 ## 🗓 Schedule
 
- Status | Event  | Date                         | Venue  | Remarks |
-:------:|:--------:|:-----------------------------|:-------|:--------|
+ Status | Event   | Date                         | Venue  | Remarks |
+:------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | PayPal | JSConf.Asia edition
  🤷‍♀️ | [talk.js - Feb][#] | 21 Feb 2018 (Wed)  | PayPal | Not confirmed
  🤷‍♀️ | [talk.js - Mar][#] | 21 Mar 2018 (Wed)  | PayPal | Not confirmed
