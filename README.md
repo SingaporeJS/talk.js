@@ -6,12 +6,12 @@
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | PayPal | JSConf.Asia edition
- 🤷‍♀️ | [talk.js - Feb][#] | 21 Feb 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Mar][#] | 21 Mar 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Apr][#] | 18 Apr 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - May][#] | 16 May 2018 (Wed)  | PayPal | Not confirmed
- 🤷‍♀️ | [talk.js - Jun][#] | 20 Jun 2018 (Wed)  | PayPal | Not confirmed
+ 🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | Microsoft | JSConf.Asia edition
+ 🤘 | [talk.js - Feb][#] | 21 Feb 2018 (Wed)  | Microsoft | 
+ 🤘 | [talk.js - Mar][#] | 21 Mar 2018 (Wed)  | Microsoft | 
+ 🤷‍♀️ | [talk.js - Apr][#] | 18 Apr 2018 (Wed)  | PayPal | 
+ 🤷‍♀️ | [talk.js - May][#] | 16 May 2018 (Wed)  | PayPal | 
+ 🤷‍♀️ | [talk.js - Jun][#] | 20 Jun 2018 (Wed)  | PayPal | 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
 
