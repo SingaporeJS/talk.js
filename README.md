@@ -7,16 +7,18 @@
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | Microsoft | JSConf.Asia edition
- 🤘 | [talk.js - Feb][#] | 21 Feb 2018 (Wed)  | Microsoft | 
- 🤘 | [talk.js - Mar][#] | 21 Mar 2018 (Wed)  | Microsoft | 
- 🤷‍♀️ | [talk.js - Apr][#] | 18 Apr 2018 (Wed)  | PayPal | 
- 🤷‍♀️ | [talk.js - May][#] | 16 May 2018 (Wed)  | PayPal | 
- 🤷‍♀️ | [talk.js - Jun][#] | 20 Jun 2018 (Wed)  | PayPal | 
+ 🤘 | [talk.js - June][11] | 20 Jun 2018 (Wed)  | SP | 
+ 🤘 | [talk.js - July][12] | 18 July 2018 (Wed)  | Singtel | 
+ 🤷‍♀️ | [talk.js - Aug][#] | 29 Aug 2018 (Wed)  | - | 
+ 🤷‍♀️ | [talk.js - Sep][#] | 26 Sep 2018 (Wed)  | - | 
+ 🤷‍♀️ | [talk.js - Oct][#] | 24 Oct 2018 (Wed)  | - | 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
 
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
 [6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
+[11]: https://github.com/SingaporeJS/talk.js/issues/11 "talk.js - June 2018"
+[12]: https://github.com/SingaporeJS/talk.js/issues/11 "talk.js - July 2018"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
