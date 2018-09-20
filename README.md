@@ -10,7 +10,7 @@
  🤘 | [talk.js - June][11] | 20 Jun 2018 (Wed)  | Singapore Power | 
  🤘 | [talk.js - July][12] | 18 July 2018 (Wed)  | Singtel | 
  🤘 | [talk.js - Aug][#] | 29 Aug 2018 (Wed)  | Carousell | 
- 🤷‍♀️ | [talk.js - Sep][#] | 26 Sep 2018 (Wed)  | - | 
+ 🤷‍♀️ | [talk.js - Sep][#] | 26 Sep 2018 (Wed)  | AWS | 
  🤷‍♀️ | [talk.js - Oct][#] | 24 Oct 2018 (Wed)  | PayPal | 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
