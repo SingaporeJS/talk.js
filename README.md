@@ -15,7 +15,7 @@
  🤷‍♀️ | [talk.js - Jul][#] | 10 Jul 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Aug][#] | 14 Aug 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Sep][#] | 11 Sep 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Oct][#] | 9 Oct 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Oct][#] | 09 Oct 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | TBD | 
 
