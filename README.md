@@ -2,29 +2,34 @@
 
 > _A monthly meet up for all things JavaScript, Node.js, and the modern web_
 
-## 🗓 Schedule
+## 🗓 Schedule 2019
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [talk.js - Jan][6] | 24 Jan 2018 (Wed)  | Microsoft | JSConf.Asia edition
- 🤘 | [talk.js - June][11] | 20 Jun 2018 (Wed)  | Singapore Power | 
- 🤘 | [talk.js - July][12] | 18 July 2018 (Wed)  | Singtel | 
- 🤘 | [talk.js - Aug][#] | 29 Aug 2018 (Wed)  | Carousell | 
- 🤷‍♀️ | [talk.js - Sep][#] | 26 Sep 2018 (Wed)  | AWS | 
- 🤷‍♀️ | [talk.js - Oct][#] | 24 Oct 2018 (Wed)  | PayPal | 
+ 🤘 | [chat.js - Jan][#] | 23 Jan 2019 (Wed)  | Singapore Power | chat.js = special cosy format
+ 🤘 | [talk.js - Feb][16] | 13 Feb 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Mar][#] | 13 Mar 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Apr][#] | 10 Apr 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - May][#] | 15 May 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Jun][#] | 12 Jun 2019 (Wed)  | TBD | JSConf.Asia
+ 🤷‍♀️ | [talk.js - Jul][#] | 10 Jul 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Aug][#] | 14 Aug 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Sep][#] | 11 Sep 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Oct][#] | 9 Oct 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | TBD | 
+
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
 
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
-[6]: https://github.com/SingaporeJS/talk.js/issues/6 "talk.js - January 2018"
-[11]: https://github.com/SingaporeJS/talk.js/issues/11 "talk.js - June 2018"
-[12]: https://github.com/SingaporeJS/talk.js/issues/12 "talk.js - July 2018"
+[16]: https://github.com/SingaporeJS/talk.js/issues/16 "talk.js - February 2019"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
 _Note to organizers:_
 - Check [public holidays](http://www.mom.gov.sg/employment-practices/public-holidays) before planning events
-- Check [WeBuildSG](https://webuild.sg) for event clashes
+- Check [EngineersSG](https://engineers.sg/events/) for event clashes
 
 ## 📅 Agenda
 
