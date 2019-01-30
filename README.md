@@ -7,8 +7,8 @@
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [chat.js - Jan][#] | 23 Jan 2019 (Wed)  | Singapore Power | chat.js = special cosy format
- 🤘 | [talk.js - Feb][16] | 13 Feb 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Mar][#] | 13 Mar 2019 (Wed)  | TBD | 
+ 🤘 | [talk.js - Feb][16] | 13 Feb 2019 (Wed)  | Viki | 
+ 🤷‍♀️ | [talk.js - Mar][#] | 13 Mar 2019 (Wed)  | Microsoft | 
  🤷‍♀️ | [talk.js - Apr][#] | 10 Apr 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - May][#] | 15 May 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Jun][#] | 12 Jun 2019 (Wed)  | TBD | JSConf.Asia
