@@ -7,7 +7,7 @@
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [chat.js - Jan][18] | 23 Jan 2019 (Wed)  | Singapore Power | chat.js = special cosy format
- 🤘 | [talk.js - Feb][16] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
+ 🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
  🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | 
  🤷‍♀️ | [talk.js - Apr][#] | 10 Apr 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - May][#] | 15 May 2019 (Wed)  | TBD | 
@@ -24,7 +24,7 @@
 
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
 [18]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
-[16]: https://github.com/SingaporeJS/talk.js/issues/16 "talk.js - February 2019"
+[17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
 [19]: https://github.com/SingaporeJS/talk.js/issues/19 "talk.js - March 2019"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
