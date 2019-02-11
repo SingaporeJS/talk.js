@@ -11,7 +11,7 @@
  🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | 
  🤷‍♀️ | [talk.js - Apr][#] | 10 Apr 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - May][#] | 15 May 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Jun][#] | 12/13 Jun 2019 (Wed/Thurs)  | TBD | JSConf.Asia Special!
+ 🤘 | [talk.js - Jun][#] | 12/13 Jun 2019 (Wed/Thurs)  | TBD | JSConf.Asia Special!
  🤷‍♀️ | [talk.js - Jul][#] | 10 Jul 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Aug][#] | 14 Aug 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Sep][#] | 11 Sep 2019 (Wed)  | TBD | 
