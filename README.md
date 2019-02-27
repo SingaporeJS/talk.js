@@ -8,7 +8,7 @@
 :------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [chat.js - Jan][18] | 23 Jan 2019 (Wed)  | Singapore Power | chat.js = special cosy format
  🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
- 🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | 
+ 🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
  🤷‍♀️ | [talk.js - Apr][#] | 10 Apr 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - May][#] | 15 May 2019 (Wed)  | TBD | 
  🤘 | [talk.js - Jun][#] | 12/13 Jun 2019 (Wed/Thurs)  | TBD | JSConf.Asia Special!
