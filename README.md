@@ -11,7 +11,7 @@
  🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
  🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | Singapore Power | 
  🤷‍♀️ | [talk.js - May][22] | 15 May 2019 (Wed)  | TBD | 
- 🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | TBD | Co-host with Talk.CSS - JSConf.Asia Special!
+ 🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | TBD | Talk.JS + Talk.CSS = JSConf.Asia Special!
  🤷‍♀️ | [talk.js - Jul][#] | 10 Jul 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Aug][#] | 14 Aug 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Sep][#] | 11 Sep 2019 (Wed)  | TBD | 
