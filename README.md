@@ -26,6 +26,10 @@
 [18]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
 [17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
 [19]: https://github.com/SingaporeJS/talk.js/issues/19 "talk.js - March 2019"
+[21]: https://github.com/SingaporeJS/talk.js/issues/21 "talk.js - April 2019"
+[22]: https://github.com/SingaporeJS/talk.js/issues/22 "talk.js - May 2019"
+[23]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - June 2019"
+
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
