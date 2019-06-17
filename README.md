@@ -12,9 +12,9 @@
  🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | Singapore Power | 
  🤘 | [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
  🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
- 🤘 | [talk.js - Jul][#] | 10 Jul 2019 (Wed)  | HooQ | 
- 🤷‍♀️ | [talk.js - Aug][#] | 14 Aug 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Sep][#] | 11 Sep 2019 (Wed)  | TBD | 
+ 🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | 
+ 🤷‍♀️ | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | TBD | 
+ 🤷‍♀️ | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Oct][#] | 09 Oct 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | TBD | 
