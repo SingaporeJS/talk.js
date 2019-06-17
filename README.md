@@ -29,9 +29,9 @@
 [21]: https://github.com/SingaporeJS/talk.js/issues/21 "talk.js - April 2019"
 [22]: https://github.com/SingaporeJS/talk.js/issues/22 "talk.js - May 2019"
 [23]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - June 2019"
-[24]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - July 2019"
-[25]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - August 2019"
-[26]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - September 2019"
+[24]: https://github.com/SingaporeJS/talk.js/issues/24 "talk.js - July 2019"
+[25]: https://github.com/SingaporeJS/talk.js/issues/25 "talk.js - August 2019"
+[26]: https://github.com/SingaporeJS/talk.js/issues/26 "talk.js - September 2019"
 
 
 
@@ -59,13 +59,13 @@ Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch
 
 Here's a non-exhaustive list of suggested topics to speakers
 
-- Web APIs: `WebAssembly` `WebCrypto` `WebSockets` `WebVR`
+- Web APIs: `WebAssembly` `WebCrypto` `WebSockets` `WebVR` `WebGL`
 
-- Frameworks: `ReactJS` `VueJS` `AngularJS` `EmberJS`
+- Frameworks: `ReactJS` `VueJS` `AngularJS` `EmberJS` `Next.js` `Nuxt.js`
 
-- JavaScript: `Promises` `async/await` `closures` `generators` `SharedArrayBuffer` `Atomics`
+- JavaScript: `Promises` `async/await` `closures` `generators` `SharedArrayBuffer` `Atomics` `Event Loop`
 
-- Others: `Protocol Buffers` `HTTP 2.0`
+- Others: `Protocol Buffers` `HTTP 2.0` `Static Site Generators` `Patterns`
 
 ## 🎙 How to propose a talk
 
