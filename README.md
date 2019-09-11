@@ -32,6 +32,7 @@
 [24]: https://github.com/SingaporeJS/talk.js/issues/24 "talk.js - July 2019"
 [25]: https://github.com/SingaporeJS/talk.js/issues/25 "talk.js - August 2019"
 [26]: https://github.com/SingaporeJS/talk.js/issues/26 "talk.js - September 2019"
+[27]: https://github.com/SingaporeJS/talk.js/issues/27 "talk.js - October 2019"
 
 
 
