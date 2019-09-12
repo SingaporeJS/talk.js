@@ -15,8 +15,8 @@
  🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
  🤘 | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
  🤘 | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
- 🤘 | [talk.js - Oct][27] | 09 Oct 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
+ 🤘 | [talk.js - Oct][27] | 09 Oct 2019 (Wed)  | TBD | Components Components Components!
+ 🤘 | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | - |  Holiday break month. :)
 
 
