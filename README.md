@@ -6,16 +6,16 @@
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [chat.js - Jan][18] | 23 Jan 2019 (Wed)  | Singapore Power | chat.js = special cosy format
+ 🤘 | [chat.js - Jan][18] | 23 Jan 2019 (Wed)  | SP Digital | chat.js = special cosy format
  🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
  🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
- 🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | Singapore Power | 
+ 🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | SP Digital | 
  🤘 | [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
  🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
  🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
  🤘 | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
  🤘 | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
- 🤘 | [talk.js - Oct][27] | 09 Oct 2019 (Wed)  | TBD | Components Components Components!
+ 🤘 | [talk.js - Oct][27] | 09 Oct 2019 (Wed)  | SP Digital | Components Components Components!
  🤘 | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
  🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | - |  Holiday break month. :)
 
