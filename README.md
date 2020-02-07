@@ -102,7 +102,7 @@ Event   | Date                         | Venue  | Remarks |
 [talk.js - Dec][#] | -  | - | Holiday break month. :)
 
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
-[28]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
+[18]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
 [17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
 [19]: https://github.com/SingaporeJS/talk.js/issues/19 "talk.js - March 2019"
 [21]: https://github.com/SingaporeJS/talk.js/issues/21 "talk.js - April 2019"
