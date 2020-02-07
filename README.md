@@ -2,22 +2,22 @@
 
 > _A monthly meet up for all things JavaScript, Node.js, and the modern web_
 
-## 🗓 Schedule 2019
+## 🗓 Schedule 2020
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed)  | Open Gov |
- 🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed)  | Stripe | 
- 🤷‍♀️ | [talk.js - Mar][#] | 18 Mar 2020 (Wed)  | ? |
- 🤷‍♀️ | [talk.js - Apr][#] | 15 Apr 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - May][#] | 20 May 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Jul][#] | 15 Jul 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Aug][#] | 19 Aug 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Sep][#] | 16 Sep 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Oct][#] | 14 Oct 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Nov][#] | 18 Nov 2020 (Wed)  | ? | 
- 🤷‍♀️ | [talk.js - Dec][#] | - | - |  Holidays Break
+ 🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed) | Open Gov |
+ 🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed) | Stripe | 
+ 🤷‍♀️ | [talk.js - Mar][#] | 18 Mar 2020 (Wed) | ? |
+ 🤷‍♀️ | [talk.js - Apr][#] | 15 Apr 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - May][#] | 20 May 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Jul][#] | 15 Jul 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Aug][#] | 19 Aug 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Sep][#] | 16 Sep 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Oct][#] | 14 Oct 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Nov][#] | 18 Nov 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Dec][#] | - | - | Holidays Break
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
