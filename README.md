@@ -6,35 +6,25 @@
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [chat.js - Jan][18] | 23 Jan 2019 (Wed)  | SP Digital | chat.js = special cosy format
- 🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
- 🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
- 🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | SP Digital | 
- 🤘 | [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
- 🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
- 🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
- 🤘 | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
- 🤘 | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
- 🤘 | [talk.js - Oct][27] | 09 Oct 2019 (Wed)  | SP Digital | Components Components Components!
- 🤘 | [talk.js - Nov][#] | 13 Nov 2019 (Wed)  | TBD | 
- 🤷‍♀️ | [talk.js - Dec][#] | 11 Dec 2019 (Wed)  | - |  Holiday break month. :)
+ 🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed)  | Open Gov |
+ 🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed)  | Stripe | 
+ 🤷‍♀️ | [talk.js - Mar][#] | 18 Mar 2020 (Wed)  | ? |
+ 🤷‍♀️ | [talk.js - Apr][#] | 15 Apr 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - May][#] | 20 May 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Jul][#] | 15 Jul 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Aug][#] | 19 Aug 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Sep][#] | 16 Sep 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Oct][#] | 14 Oct 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Nov][#] | 18 Nov 2020 (Wed)  | ? | 
+ 🤷‍♀️ | [talk.js - Dec][#] | - | - |  Holidays Break
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
 
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
-[18]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
-[17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
-[19]: https://github.com/SingaporeJS/talk.js/issues/19 "talk.js - March 2019"
-[21]: https://github.com/SingaporeJS/talk.js/issues/21 "talk.js - April 2019"
-[22]: https://github.com/SingaporeJS/talk.js/issues/22 "talk.js - May 2019"
-[23]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - June 2019"
-[24]: https://github.com/SingaporeJS/talk.js/issues/24 "talk.js - July 2019"
-[25]: https://github.com/SingaporeJS/talk.js/issues/25 "talk.js - August 2019"
-[26]: https://github.com/SingaporeJS/talk.js/issues/26 "talk.js - September 2019"
-[27]: https://github.com/SingaporeJS/talk.js/issues/27 "talk.js - October 2019"
-
-
+[31]: https://github.com/SingaporeJS/talk.js/issues/31 "chat.js - January 2020"
+[32]: https://github.com/SingaporeJS/talk.js/issues/32 "chat.js - February 2020"
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
@@ -91,3 +81,38 @@ The most effective way is to open an issue if you have questions, suggestions, o
 - For talk.js related matters, open an [issue](https://github.com/SingaporeJS/talk.js/issues/new)
 - For other matters, open an [issue](https://github.com/SingaporeJS/organizers/issues/new)
 - Reach out to us on the organizers' channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
+
+
+## 2019 Archives
+
+
+ Status | Event   | Date                         | Venue  | Remarks |
+:------:|:--------|:-----------------------------|:-------|:--------|
+ 🤘 | [chat.js - Jan][18] | 15 Jan 2019 (Wed)  | Open Gov | chat.js = special cosy format
+ 🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
+ 🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
+ 🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | SP Digital | 
+ 🤘 | [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
+ 🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
+ 🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
+ 🤘 | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
+ 🤘 | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
+ 🤘 | [talk.js - Oct][28] | 09 Oct 2019 (Wed)  | SP Digital | Components Components Components!
+ 🤘 | [talk.js - Nov][30] | 13 Nov 2019 (Wed)  | Ascenda | 
+  | [talk.js - Dec][#] | -  | - |  Holiday break month. :)
+
+
+🤘 - confirmed; 🤷‍♀️ - not confirmed
+
+[#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
+[28]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
+[17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
+[19]: https://github.com/SingaporeJS/talk.js/issues/19 "talk.js - March 2019"
+[21]: https://github.com/SingaporeJS/talk.js/issues/21 "talk.js - April 2019"
+[22]: https://github.com/SingaporeJS/talk.js/issues/22 "talk.js - May 2019"
+[23]: https://github.com/SingaporeJS/talk.js/issues/23 "talk.js - June 2019"
+[24]: https://github.com/SingaporeJS/talk.js/issues/24 "talk.js - July 2019"
+[25]: https://github.com/SingaporeJS/talk.js/issues/25 "talk.js - August 2019"
+[26]: https://github.com/SingaporeJS/talk.js/issues/26 "talk.js - September 2019"
+[28]: https://github.com/SingaporeJS/talk.js/issues/28 "talk.js - October 2019"
+[30]: https://github.com/SingaporeJS/talk.js/issues/30 "talk.js - November 2019"
