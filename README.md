@@ -86,20 +86,20 @@ The most effective way is to open an issue if you have questions, suggestions, o
 ## 2019 Archives
 
 
- Status | Event   | Date                         | Venue  | Remarks |
-:------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [chat.js - Jan][18] | 15 Jan 2019 (Wed)  | Open Gov | chat.js = special cosy format
- 🤘 | [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
- 🤘 | [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
- 🤘 | [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | SP Digital | 
- 🤘 | [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
- 🤘 | [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
- 🤘 | [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
- 🤘 | [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
- 🤘 | [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
- 🤘 | [talk.js - Oct][28] | 09 Oct 2019 (Wed)  | SP Digital | Components Components Components!
- 🤘 | [talk.js - Nov][30] | 13 Nov 2019 (Wed)  | Ascenda | 
-  | [talk.js - Dec][#] | -  | - |  Holiday break month. :)
+ Event   | Date                         | Venue  | Remarks |
+:--------|:-----------------------------|:-------|:--------|
+ [chat.js - Jan][18] | 15 Jan 2019 (Wed)  | Open Gov | chat.js = special cosy format
+ [talk.js - Feb][17] | 13 Feb 2019 (Wed)  | Viki | Co-host with FB Developer Circles!
+ [talk.js - Mar][19] | 13 Mar 2019 (Wed)  | Microsoft | Co-host with vuejs and fullstack dev group
+ [talk.js - Apr][21] | 10 Apr 2019 (Wed)  | SP Digital | 
+ [talk.js - May][22] | 15 May 2019 (Wed)  | Microsoft | talk.js + chat.js
+ [talk.js - Jun][23] | 12 Jun 2019 (Wed)  | Carousell | Talk.JS + Talk.CSS = JSConf.Asia Special!
+ [talk.js - Jul][24] | 10 Jul 2019 (Wed)  | HooQ | Intermediate Practical Talks
+ [talk.js - Aug][25] | 14 Aug 2019 (Wed)  | Funding Societies | 
+ [talk.js - Sep][26] | 11 Sep 2019 (Wed)  | Cloudflare | 
+ [talk.js - Oct][28] | 09 Oct 2019 (Wed)  | SP Digital | Components Components Components!
+ [talk.js - Nov][30] | 13 Nov 2019 (Wed)  | Ascenda | 
+ [talk.js - Dec][#] | -  | - |  Holiday break month. :)
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
