@@ -101,9 +101,6 @@ The most effective way is to open an issue if you have questions, suggestions, o
  [talk.js - Nov][30] | 13 Nov 2019 (Wed)  | Ascenda | 
  [talk.js - Dec][#] | -  | - |  Holiday break month. :)
 
-
-🤘 - confirmed; 🤷‍♀️ - not confirmed
-
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
 [28]: https://github.com/SingaporeJS/talk.js/issues/18 "chat.js - January 2019"
 [17]: https://github.com/SingaporeJS/talk.js/issues/17 "talk.js - February 2019"
