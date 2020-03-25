@@ -8,7 +8,7 @@
 :------:|:--------|:-----------------------------|:-------|:--------|
  🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed) | Open Gov |
  🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed) | Online | 
- 🤘 | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | Online |
+ 🤘 | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | - | Cancelled
  🤷‍♀️ | [talk.js - Apr][#] | 15 Apr 2020 (Wed) | Online | 
  🤷‍♀️ | [talk.js - May][#] | 20 May 2020 (Wed) | Online | 
  🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed) | ? | 
