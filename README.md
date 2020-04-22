@@ -9,8 +9,8 @@
  🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed) | Open Gov |
  🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed) | Online | 
  🤘 | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | - | Cancelled
- 🤷‍♀️ | [talk.js - Apr][#] | 15 Apr 2020 (Wed) | Online | 
- 🤷‍♀️ | [talk.js - May][#] | 20 May 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Apr][34] | 22 Apr 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - May][35] | 20 May 2020 (Wed) | Online | 
  🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed) | ? | 
  🤷‍♀️ | [talk.js - Jul][#] | 15 Jul 2020 (Wed) | ? | 
  🤷‍♀️ | [talk.js - Aug][#] | 19 Aug 2020 (Wed) | ? | 
@@ -25,6 +25,8 @@
 [#]: https://github.com/SingaporeJS/talk.js/issues/ "talk.js"
 [31]: https://github.com/SingaporeJS/talk.js/issues/31 "chat.js - January 2020"
 [32]: https://github.com/SingaporeJS/talk.js/issues/32 "chat.js - February 2020"
+[34]: https://github.com/SingaporeJS/talk.js/issues/34
+[35]: https://github.com/SingaporeJS/talk.js/issues/35
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
