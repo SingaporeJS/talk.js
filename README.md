@@ -30,9 +30,6 @@
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
-_Note to organizers:_
-- Check [public holidays](http://www.mom.gov.sg/employment-practices/public-holidays) before planning events
-- Check [EngineersSG](https://engineers.sg/events/) for event clashes
 
 ## 📅 Agenda
 
@@ -73,7 +70,8 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 ## 👋 Chat with our community
 
-Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home).
+Follow us on [Telegram](https://t.me/singaporejs)
+Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home)
 
 ## 💬 Reach out to the organizers
 
