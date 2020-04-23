@@ -76,7 +76,6 @@ Follow us on [Telegram](https://t.me/singaporejs) or come say hi to us on [Gitte
 
 The most effective way is to open an issue if you have questions, suggestions, or feedback.
 
-- For new job opportunities you'd like to list, open an [issue](https://github.com/SingaporeJS/jobs/issues/new)
-- For talk.js related matters, open an [issue](https://github.com/SingaporeJS/talk.js/issues/new)
-- For other matters, open an [issue](https://github.com/SingaporeJS/organizers/issues/new)
-- Reach out to us on the organizers' channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
+- For job opportunities you'd like to list -> open an [issue for jobs](https://github.com/SingaporeJS/jobs/issues/new)
+- For talk.js related matters -> open an [issue for talk.js](https://github.com/SingaporeJS/talk.js/issues/new)
+- For other matters -> open an [issue for organizers](https://github.com/SingaporeJS/organizers/issues/new)
