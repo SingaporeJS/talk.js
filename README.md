@@ -70,8 +70,7 @@ There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/i
 
 ## 👋 Chat with our community
 
-Follow us on [Telegram](https://t.me/singaporejs)
-Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home)
+Follow us on [Telegram](https://t.me/singaporejs) or come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home)
 
 ## 💬 Reach out to the organizers
 
