@@ -45,37 +45,20 @@ Time   | Agenda
 
 Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch recordings from our past [events](https://engineers.sg/organization/singaporejs).
 
-## 👓 Topics
-
-Here's a non-exhaustive list of suggested topics to speakers
-
-- Web APIs: `WebAssembly` `WebCrypto` `WebSockets` `WebVR` `WebGL`
-
-- Frameworks: `ReactJS` `VueJS` `AngularJS` `EmberJS` `Next.js` `Nuxt.js`
-
-- JavaScript: `Promises` `async/await` `closures` `generators` `SharedArrayBuffer` `Atomics` `Event Loop`
-
-- Others: `Protocol Buffers` `HTTP 2.0` `Static Site Generators` `Patterns`
-
 ## 🎙 How to propose a talk
 
 There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/issues) for each talk.js for the month (raise an issue if one has not been created yet). To propose a talk simply leave a comment in an issue for that month.
 
-## 📝 Notes to speakers
-
-- Be punctual for the event; talks start at 7.30pm - _your talk may be rescheduled if you are late_
-- Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
-- Request for wifi access from the host
-- RSVP on [Meetup.com](https://www.meetup.com/Singapore-JS) for the event - _this is for building security clearance_
-
-## 👋 Chat with our community
-
-Follow us on [Telegram](https://t.me/singaporejs) or come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home)
-
-## 💬 Reach out to the organizers
+## 👋 Reach out
 
 The most effective way is to open an issue if you have questions, suggestions, or feedback.
 
 - For job opportunities you'd like to list -> open an [issue for jobs](https://github.com/SingaporeJS/jobs/issues/new)
 - For talk.js related matters -> open an [issue for talk.js](https://github.com/SingaporeJS/talk.js/issues/new)
 - For other matters -> open an [issue for organizers](https://github.com/SingaporeJS/organizers/issues/new)
+- For updates -> follow us on [SingaporeJS @ Telegram](https://t.me/singaporejs)
+- Reach the organizers -> send a message on [ChatJS @ Telegram](https://t.me/chatjs)
+
+## ❓FAQ
+
+Check out our [Wiki](https://github.com/SingaporeJS/talk.js/wiki)
