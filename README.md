@@ -11,12 +11,12 @@
  🤷‍♀️ | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | - | Cancelled
  🤘 | [talk.js - Apr][34] | 22 Apr 2020 (Wed) | Online | 
  🤘 | [talk.js - May][35] | 20 May 2020 (Wed) | Online | 
- 🤷‍♀️ | [talk.js - Jun][#] | 17 Jun 2020 (Wed) | ? | 
- 🤷‍♀️ | [talk.js - Jul][#] | 15 Jul 2020 (Wed) | ? | 
- 🤷‍♀️ | [talk.js - Aug][#] | 19 Aug 2020 (Wed) | ? | 
- 🤷‍♀️ | [talk.js - Sep][#] | 16 Sep 2020 (Wed) | ? | 
- 🤷‍♀️ | [talk.js - Oct][#] | 14 Oct 2020 (Wed) | ? | 
- 🤷‍♀️ | [talk.js - Nov][#] | 18 Nov 2020 (Wed) | ? | 
+ 🤷‍♀️ | [talk.js - Jun][37] | 17 Jun 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Jul][39] | 15 Jul 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Aug][40] | 19 Aug 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Sep][41] | 16 Sep 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Oct][42] | 14 Oct 2020 (Wed) | Online | 
+ 🤷‍♀️ | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online | 
  🤷‍♀️ | [talk.js - Dec][#] | - | - | Holidays Break
 
 
@@ -27,6 +27,14 @@
 [32]: https://github.com/SingaporeJS/talk.js/issues/32 "chat.js - February 2020"
 [34]: https://github.com/SingaporeJS/talk.js/issues/34
 [35]: https://github.com/SingaporeJS/talk.js/issues/35
+[37]: https://github.com/SingaporeJS/talk.js/issues/37
+[39]: https://github.com/SingaporeJS/talk.js/issues/39
+[40]: https://github.com/SingaporeJS/talk.js/issues/40
+[41]: https://github.com/SingaporeJS/talk.js/issues/41
+[42]: https://github.com/SingaporeJS/talk.js/issues/42
+[43]: https://github.com/SingaporeJS/talk.js/issues/43
+
+
 
 Check the calendar on our [Meetup page](https://www.meetup.com/Singapore-JS/events/) for all upcoming events.
 
