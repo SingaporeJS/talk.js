@@ -6,18 +6,19 @@
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed) | Open Gov |
- 🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed) | Online | 
- 🤷‍♀️ | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | - | Cancelled
- 🤘 | [talk.js - Apr][34] | 22 Apr 2020 (Wed) | Online | 
- 🤘 | [talk.js - May][35] | 20 May 2020 (Wed) | Online | 
- 🤘 | [talk.js - Jun][37] | 17 Jun 2020 (Wed) | Online | 
- 🤘 | [talk.js - Jul][39] | 15 Jul 2020 (Wed) | Online | 
- 🤘 | [talk.js - Aug][40] | 19 Aug 2020 (Wed) | Online | 
- 🤘 | [talk.js - Sep][41] | 16 Sep 2020 (Wed) | Online | 
- 🤘 | [talk.js - Oct][42] | 14 Oct 2020 (Wed) | Online | 
- 🤘 | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online | 
-  | [talk.js - Dec][#] | - | - | Holidays Break
+ 🤘 | [chat.js - Jan][31] | 15 Jan 2020 (Wed) | Open Gov |
+ 🤘 | [talk.js - Feb][32] | 19 Feb 2020 (Wed) | Online |
+ 🛑 | [talk.js - Mar][32] | 25 Mar 2020 (Wed) | - | Cancelled
+ 🤘 | [talk.js - Apr][34] | 22 Apr 2020 (Wed) | Online |
+ 🤘 | [talk.js - May][35] | 20 May 2020 (Wed) | Online |
+ 🤘 | [talk.js - Jun][37] | 17 Jun 2020 (Wed) | Online |
+ 🤘 | [talk.js - Jul][39] | 15 Jul 2020 (Wed) | Online |
+ 🤘 | [talk.js - Aug][40] | 19 Aug 2020 (Wed) | Online |
+ 🤘 | [talk.js - Sep][41] | 16 Sep 2020 (Wed) | Online |
+ 🤘 | [talk.js - Oct][42] | 14 Oct 2020 (Wed) | Online |
+ 🤘 | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online |
+ 🎄 | [talk.js - Dec][#] | - | - | Holidays Break
+ 🤷‍♀️  | [talk.js - Jan][48] | xx Jan 2020 | Online |
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
