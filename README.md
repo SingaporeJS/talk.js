@@ -18,7 +18,7 @@
  🤘 | [talk.js - Oct][42] | 14 Oct 2020 (Wed) | Online |
  🤘 | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online |
  🎄 | [talk.js - Dec][#] | - | - | Holidays Break
- 🤷‍♀️  | [talk.js - Jan][48] | xx Jan 2020 | Online |
+ 🤷‍♀️  | [talk.js - Jan][48] | xx Jan 2020 (Wed) | Online |
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
@@ -34,6 +34,7 @@
 [41]: https://github.com/SingaporeJS/talk.js/issues/41
 [42]: https://github.com/SingaporeJS/talk.js/issues/42
 [43]: https://github.com/SingaporeJS/talk.js/issues/43
+[48]: https://github.com/SingaporeJS/talk.js/issues/48
 
 
 
