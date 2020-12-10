@@ -16,8 +16,9 @@
  🤘 | [talk.js - Aug][40] | 19 Aug 2020 (Wed) | Online |
  🤘 | [talk.js - Sep][41] | 16 Sep 2020 (Wed) | Online |
  🤘 | [talk.js - Oct][42] | 14 Oct 2020 (Wed) | Online |
- 🤷‍♀️  | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online |
+ 🤘 | [talk.js - Nov][43] | 18 Nov 2020 (Wed) | Online |
  🎄 | [talk.js - Dec][#] | - | - | Holidays Break
+ 🤷‍♀️  | [talk.js - Jan][48] | xx Jan 2020 | Online |
 
 
 🤘 - confirmed; 🤷‍♀️ - not confirmed
