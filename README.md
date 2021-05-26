@@ -53,7 +53,7 @@ Time   | Agenda
 
 ## 📹 Recorded talks
 
-Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch recordings from our past [events](https://engineers.sg/organization/singaporejs).
+Most of our talks are recorded by volunteers from Engineers.SG. You can watch [videos from our past events](https://engineers.sg/organization/singaporejs) on their website.
 
 ## 🎙 How to propose a talk
 
