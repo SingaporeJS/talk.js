@@ -33,6 +33,7 @@ module.exports = function(grunt) {
 			}
 		},
 
+		/*
 		sass: {
 			core: {
 				files: {
@@ -51,6 +52,7 @@ module.exports = function(grunt) {
 				]
 			}
 		},
+		*/
 
 		autoprefixer: {
 			dist: {
@@ -159,7 +161,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-cssmin' );
 	grunt.loadNpmTasks( 'grunt-contrib-uglify' );
 	grunt.loadNpmTasks( 'grunt-contrib-watch' );
-	grunt.loadNpmTasks( 'grunt-sass' );
+	//grunt.loadNpmTasks( 'grunt-sass' );
 	grunt.loadNpmTasks( 'grunt-contrib-connect' );
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-zip' );
@@ -172,13 +174,13 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'js', [ 'jshint', 'uglify', 'qunit' ] );
 
 	// Theme CSS
-	grunt.registerTask( 'css-themes', [ 'sass:themes' ] );
+	//grunt.registerTask( 'css-themes', [ 'sass:themes' ] );
 
 	// Core framework CSS
-	grunt.registerTask( 'css-core', [ 'sass:core', 'autoprefixer', 'cssmin' ] );
+	grunt.registerTask( 'css-core', [ 'autoprefixer', 'cssmin' ] );
 
 	// All CSS
-	grunt.registerTask( 'css', [ 'sass', 'autoprefixer', 'cssmin' ] );
+	grunt.registerTask( 'css', [ 'autoprefixer', 'cssmin' ] );
 
 	// Package presentation to archive
 	grunt.registerTask( 'package', [ 'default', 'zip' ] );
