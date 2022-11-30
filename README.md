@@ -76,3 +76,7 @@ The most effective way is to open an issue if you have questions, suggestions, o
 Check out our [Wiki](https://github.com/SingaporeJS/talk.js/wiki)
 
 Other resources on [our LinkTree](https://linktr.ee/singaporejs)
+
+## For organisers
+
+- [How to create slides](HOW_TO_CREATE_SLIDES.md)
