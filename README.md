@@ -74,3 +74,5 @@ The most effective way is to open an issue if you have questions, suggestions, o
 ## ❓FAQ
 
 Check out our [Wiki](https://github.com/SingaporeJS/talk.js/wiki)
+
+Other resources on [our LinkTree](https://linktr.ee/singaporejs)
